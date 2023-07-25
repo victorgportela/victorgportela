@@ -1,4 +1,4 @@
-Victor Gabriel
+
 Olá!👋
 Eu me chamo Victor Gabriel, um iniciante em programação e estudante de ADS. Meu foco principal está nas áreas de front-end. Estou sempre em busca de mais aprendizado e melhorias nessa área.
 
@@ -9,7 +9,4 @@ Sobre mim
 🎯Meus objetivos incluem desenvolver aplicações web e mobile incríveis e intuitivas.
 
 Habilidades:
-HTML
-CSS
-JavaScript
-Em breve projetos individuais...
+HTML; CSS; JavaScript. Em breve projetos individuais...
