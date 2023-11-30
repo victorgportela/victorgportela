@@ -15,5 +15,5 @@
 
 </div> <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorgportela&show_icons=true&theme=dark)
 
