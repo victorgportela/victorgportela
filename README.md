@@ -20,7 +20,6 @@
 
 <br> 
 
-[<img align = center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width= auto height= auto>](https://www.linkedin.com/in/victorgportela/)
-
+[<img align = center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width= 111.5 height= 26>](https://www.linkedin.com/in/victorgportela/)
 [<img align = center src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width= 111.5 height= 26 >](https://www.instagram.com/victorgportela/)
 
